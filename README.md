@@ -17,7 +17,7 @@ Official instructions: https://docs.github.com/en/pages/getting-started-with-git
 
 All professional content lives in `index.html`; styling is in `style.css`. Publication filters and the print button are in `script.js`. Updating the publishing branch redeploys the site.
 
-Paper acceptance statuses, performance metrics, employment dates, and education are reproduced from the supplied CV. Paper/code URLs were not supplied, so the site does not invent them. MAVE remains marked under review. The phone number is omitted from the website. The print button produces a clean profile PDF through the browser; the original CV is not uploaded.
+Paper acceptance statuses, performance metrics, employment dates, and education are reproduced from the supplied CV. Author-provided arXiv links are included for GeoPair, ROCKET, COMPOT, and MAVE; SEAM intentionally has no paper link. COMPOT wording follows the author’s correction and does not describe it as one-shot. MAVE remains marked under review. The phone number is omitted from the website. The print button produces a clean profile PDF through the browser; the original CV is not uploaded.
 
 ## Local preview
 
